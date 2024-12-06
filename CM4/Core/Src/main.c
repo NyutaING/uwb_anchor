@@ -129,6 +129,7 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
+	//ztx
 //	  HAL_UART_Transmit(&huart2, (uint8_t*) "AT+RST\r\n", 10, 200);
   }
   /* USER CODE END 3 */
